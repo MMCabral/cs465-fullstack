@@ -5,8 +5,8 @@ Journal Reflection
 
 Architecture
 
--In my full stack project I used various frontend development approaches such as express, html, javascript, and single page application. Each have their perks like with static html pages they are straight forward and dont change dynamically based on user interactions. With Express editing common elements like headers were easier because of centralized templates. Single page application (SPA) loads the entire HTML, CSS, and images on the first page for faster navigation speeds
--The choice to use NoSQL and MongoDB database is because of MongoDB scaleability, flexibility, and support for complex data structures made it a good choice for our backend
+- In my full stack project I used various frontend development approaches such as express, html, javascript, and single page application. Each have their perks like with static html pages they are straight forward and dont change dynamically based on user interactions. With Express editing common elements like headers were easier because of centralized templates. Single page application (SPA) loads the entire HTML, CSS, and images on the first page for faster navigation speeds
+- The choice to use NoSQL and MongoDB database is because of MongoDB scaleability, flexibility, and support for complex data structures made it a good choice for our backend
 
 
 Functionality
